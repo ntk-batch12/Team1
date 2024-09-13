@@ -10,5 +10,8 @@ public class Team1Demo {
 	//create (add2 method)
 
 
-	/** Team 3*******/
+	//No, this is TEAM 1
+
+	public void multiply(){
+		System.out.println("multiply");
 }
