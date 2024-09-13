@@ -14,4 +14,8 @@ public class Team1Demo {
 	//Team 2 is back
 	public void multiply(){
 		System.out.println("multiply");
+
+	}
+	//this is java
+	
 }
